@@ -1,0 +1,16 @@
+#headerRight{
+	text-align: right;
+}
+#headingLine
+{
+font-variant-caps: normal;
+line-height: 1.6;
+font-stretch: normal;
+/*font-feature-settings: "smcp" on;*/
+}
+
+
+/*body
+{
+	background-color: lightblue;
+}*/
